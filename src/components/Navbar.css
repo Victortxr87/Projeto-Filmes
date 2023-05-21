@@ -10,6 +10,8 @@
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    font-family: 'Montserrat', sans-serif;
+   
   }
   
   #navbar form {
@@ -21,7 +23,9 @@
     padding: 0.2rem 0.8rem;
     border-radius: 4px;
     border: none;
-  }
+    
+  }  
+  
   
   #navbar form button {
     background-color: #f7d354;
@@ -33,5 +37,8 @@
     display: flex;
     align-items: center;
     cursor: pointer;
+    
+    
+    
   }
   
