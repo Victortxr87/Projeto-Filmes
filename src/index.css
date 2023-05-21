@@ -1,0 +1,28 @@
+* {
+font-family: Helvetica;
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+
+}
+
+body {
+
+    background-color: black;
+    color: rgb(188, 194, 194);
+}
+
+a {
+
+    text-decoration: none;
+    color: #f7d354;
+
+}
+
+a:hover {
+
+    text-decoration: none;
+    color: #b8930c;
+
+
+}
