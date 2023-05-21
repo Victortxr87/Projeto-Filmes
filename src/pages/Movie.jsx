@@ -2,7 +2,7 @@ const Movie = () => {
 
     return (
 
-        <div> Movie </div>
+        <div> Movie</div>
     )}
     
 export default Movie;
